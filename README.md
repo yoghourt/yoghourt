@@ -1,4 +1,4 @@
-# Yuefu (Evan) Chen
+# About me
 
 Senior Frontend Engineer · React, TypeScript, Next.js · LLM Product Integration · Beijing (UTC+8)
 
